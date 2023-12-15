@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+#忽略index.js文件
+index.js
+#忽略test目标下所有文件
+test/
